@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-This is a rock, paper, scissors ai.
+# Rock-Paper-Scissors AI
+This is a rock, paper, scissors AI.
